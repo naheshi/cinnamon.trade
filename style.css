@@ -94,10 +94,16 @@ nav ul li a{
 }
 
   /* Account Card */
-.card {
+.CardBig1 {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.CardBig2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .card1 {
