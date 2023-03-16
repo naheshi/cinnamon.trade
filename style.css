@@ -100,6 +100,13 @@ nav ul li a{
     justify-content: center;
 }
 
+.CardBig2 {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+
 .card1 {
     width: 55%;
     margin: 20px;
